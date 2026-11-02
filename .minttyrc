@@ -1,0 +1,9 @@
+# Show a normal context menu on right-click (prevents accidental auto-pasting)
+RightClickAction=menu
+
+# Enable Ctrl+Shift+C (Copy) and Ctrl+Shift+V (Paste)
+CtrlShiftShortcuts=yes
+
+# Automatically copy text to clipboard when highlighted with mouse
+CopyOnSelect=yes
+
